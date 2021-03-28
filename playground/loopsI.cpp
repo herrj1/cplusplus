@@ -8,6 +8,7 @@ int main() {
     scanf("%d", &a);
     scanf("%d", &b);
     
+    
     if(a <= b){
         for(int i =a; i<=b; i++){
             if(i == 1){
