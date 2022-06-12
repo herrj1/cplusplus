@@ -4,7 +4,7 @@
 
 using namespace std;
 int main() {
-    // Complete the code.
+    // Complete the codes
     int a, b;
     scanf("%d", &a);
     scanf("%d", &b);
